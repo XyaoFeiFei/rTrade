@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rTrade/static/css/main.073c9b0a.css",
-    "main.js": "/rTrade/static/js/main.54244323.js",
-    "static/js/787.bb2bcc77.chunk.js": "/rTrade/static/js/787.bb2bcc77.chunk.js",
-    "static/media/rTrade_logo_darkMode.png": "/rTrade/static/media/rTrade_logo_darkMode.2733c098ab5f120a1685.png",
-    "index.html": "/rTrade/index.html",
-    "main.073c9b0a.css.map": "/rTrade/static/css/main.073c9b0a.css.map",
-    "main.54244323.js.map": "/rTrade/static/js/main.54244323.js.map",
-    "787.bb2bcc77.chunk.js.map": "/rTrade/static/js/787.bb2bcc77.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.921a0e3c.js",
+    "static/js/787.bb2bcc77.chunk.js": "/static/js/787.bb2bcc77.chunk.js",
+    "static/media/rTrade_logo_darkMode.png": "/static/media/rTrade_logo_darkMode.2733c098ab5f120a1685.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.921a0e3c.js.map": "/static/js/main.921a0e3c.js.map",
+    "787.bb2bcc77.chunk.js.map": "/static/js/787.bb2bcc77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.54244323.js"
+    "static/js/main.921a0e3c.js"
   ]
 }
